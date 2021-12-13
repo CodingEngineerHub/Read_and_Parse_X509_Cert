@@ -3,4 +3,4 @@
 This is a x.509 certificate parser c# implemantation
 
 dont include "--cert begin----" and "--cert end----" part 
- hexStringCert is ascii response of base64 pem certificate data
+ hexStringCertBase64  is ascii response of base64 pem certificate data
