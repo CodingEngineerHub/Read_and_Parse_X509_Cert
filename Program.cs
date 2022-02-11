@@ -6,7 +6,7 @@ namespace ReadAndParseCert
 {
     class Program
     {
-        //this methode converts hez string to ascii
+        //this methode converts hex string to ascii
         public static string Hex2Ascii(string hexString)
         {
             StringBuilder sb = new StringBuilder();
